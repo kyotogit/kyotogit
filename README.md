@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DevOps Technologies<br><br>🌱 I’m currently learning Backend Development<br><br>🤝 I’m looking for help with Competitive Coding
+🔭 I’m currently working on DevOps Technology<br><br>🌱 I’m currently learning Backend Development Technologies<br><br>🤝 I’m looking for help with Competitive Coding
 
 
 # 💻 Tech Stack:
